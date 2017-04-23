@@ -22,6 +22,11 @@ This repository requires following packages:
 - [PyTorch](http://pytorch.org/) >= 0.1.11
 - [Matplotlib](https://matplotlib.org/users/installing.html) >= 2.0.0
 
+Use `pip` to install the necessary dependencies:
+```
+pip install -U -r requirements.txt 
+```
+
 ## How to train
 #### 8x8 gridworld
 ```bash
